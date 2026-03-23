@@ -15,6 +15,7 @@ export default defineConfig({
       }
     }
   },
+  base: '/DXGBLQ_Show/',
   plugins: [vue()],
   resolve: {
     alias: {
